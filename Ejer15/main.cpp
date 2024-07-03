@@ -32,6 +32,9 @@ int main() {
 	default: cout << "Esa no es una opcion.";
 	}
 
+	//Ejercicio
+
+	int;
 	cin.get();
 	return 0;
 }
