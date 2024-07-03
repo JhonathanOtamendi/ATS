@@ -34,7 +34,6 @@ int main() {
 
 	//Ejercicio
 
-	int;
 	cin.get();
 	return 0;
 }
