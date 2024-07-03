@@ -26,7 +26,7 @@ int main() {
 
 	int n1, n2, n3;
 
-	cout << "\nIngres 3 numeros: "; cin >> n1 >> n2 >> n3;
+	cout << "\nIngresa 3 numeros: "; cin >> n1 >> n2 >> n3;
 
 	if (n1 > n2){
 		cout << "El mayor es: " << n1;
